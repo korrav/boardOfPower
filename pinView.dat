@@ -1,0 +1,230 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_CDS_PINID!PIN_TERMINATION!PIN_TERM_IDENT!PIN_NET_SHORT!
+J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Thu Oct 10 18:10:53 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!28.800000 mil!4!OUT OF DATE!
+S!RX+_L!J3!1!@power.schematic1(sch_1):ins2128807@power.\4 header_1.normal\(chips)!4 HEADER_1_PLUG-4_4 HEADER!!!F7!!!!!
+S!RX-_L!J3!2!@power.schematic1(sch_1):ins2128807@power.\4 header_1.normal\(chips)!4 HEADER_1_PLUG-4_4 HEADER!!!F7!!!!!
+S!TX-_L!J3!3!@power.schematic1(sch_1):ins2128807@power.\4 header_1.normal\(chips)!4 HEADER_1_PLUG-4_4 HEADER!!!F7!!!!!
+S!TX+_L!J3!4!@power.schematic1(sch_1):ins2128807@power.\4 header_1.normal\(chips)!4 HEADER_1_PLUG-4_4 HEADER!!!F7!!!!!
+S!5V!J6!2!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!EN_PWM!J6!20!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!22!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!12V!J6!24!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!48V!J6!1!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!3!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!GPIO1!J6!5!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!GPIO2!J6!7!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!GPIO3!J6!9!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!GPIO4!J6!11!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!!J6!13!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!5V!J6!4!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!15!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!17!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!ADC_IN!J6!19!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!21!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!-12V!J6!23!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!6!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!PWM_O!J6!8!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!PWM_NO!J6!10!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!D1OUT!J6!12!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!14!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!EN_AMP!J6!16!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!SH_HYD!J6!18!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!!!F4!!!!!
+S!5V!C1!1!@power.schematic1(sch_1):ins2120138@discrete.\cap np.normal\(chips)!CAP NP_C0603_2.2U!!!F13!!!!!
+S!0!C1!2!@power.schematic1(sch_1):ins2120138@discrete.\cap np.normal\(chips)!CAP NP_C0603_2.2U!!!F13!!!!!
+S!12V!C2!1!@power.schematic1(sch_1):ins2118402@discrete.\cap.normal\(chips)!CAP_ECAP8_470U!!!F12!!!!!
+S!0!C2!2!@power.schematic1(sch_1):ins2118402@discrete.\cap.normal\(chips)!CAP_ECAP8_470U!!!F12!!!!!
+S!0!C4!1!@power.schematic1(sch_1):ins2119127@discrete.\cap.normal\(chips)!CAP_ECAP8_470U!!!F11!!!!!
+S!-12V!C4!2!@power.schematic1(sch_1):ins2119127@discrete.\cap.normal\(chips)!CAP_ECAP8_470U!!!F11!!!!!
+S!12V!C3!1!@power.schematic1(sch_1):ins2119304@discrete.\cap np.normal\(chips)!CAP NP_C0603_0.1U!!!F10!!!!!
+S!-12V!C3!2!@power.schematic1(sch_1):ins2119304@discrete.\cap np.normal\(chips)!CAP NP_C0603_0.1U!!!F10!!!!!
+S!CT1R_R!J1!6!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!CT1T_R!J1!12!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!!J1!1!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!!J1!2!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!!J1!3!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!!J1!7!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!!J1!8!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!!J1!9!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!PWR_1-2!J1!13!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!PWR_3-6!J1!14!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!PWR_4-5!J1!15!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!PWR_7-8!J1!16!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!3.3V_M!J1!20!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!PH1_C_R!J1!19!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!3.3V_M!J1!18!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!PH2_C_R!J1!17!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!RX+_R!J1!4!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!RX-_R!J1!5!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!TX+_R!J1!11!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!TX-_R!J1!10!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F9!!!!!
+S!CT1R_L!J2!6!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!CT1T_L!J2!12!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!!J2!1!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!!J2!2!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!!J2!3!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!!J2!7!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!!J2!8!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!!J2!9!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!PWR_1-2!J2!13!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!PWR_3-6!J2!14!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!PWR_4-5!J2!15!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!PWR_7-8!J2!16!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!3.3V!J2!20!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!PH1_C_L!J2!19!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!3.3V!J2!18!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!PH2_C_L!J2!17!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!RX+_L!J2!4!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!RX-_L!J2!5!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!TX+_L!J2!11!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!TX-_L!J2!10!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!!!F8!!!!!
+S!0!J4!1!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!10!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!11!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!12!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!13!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!14!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!15!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!16!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!17!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!18!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!19!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!2!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!20!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!21!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!22!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!23!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!24!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!25!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!26!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!27!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!D1OUT!J4!28!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!29!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!3!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!30!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!31!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!32!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!33!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!34!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!35!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!36!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!37!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!38!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!39!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!4!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!40!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!41!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!42!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!43!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!44!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!45!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!46!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!PH2_C_L!J4!47!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!TX+_L!J4!48!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!PH1_C_L!J4!49!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!5V!J4!5!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!TX-_L!J4!50!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!3.3V!J4!51!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!CT1T_L!J4!52!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!53!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!CT1R_L!J4!54!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!55!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!RX+_L!J4!56!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!ADC_IN!J4!57!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!RX-_L!J4!58!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!59!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!5V!J4!6!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!60!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!61!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J4!62!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!12V!J4!63!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!-12V!J4!64!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!7!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!8!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!!J4!9!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!0!J5!1!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!10!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!11!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!12!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!GPIO1!J5!13!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!GPIO3!J5!14!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!GPIO2!J5!15!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!GPIO4!J5!16!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!17!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!SH_HYD!J5!18!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!19!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!0!J5!2!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!20!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!21!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!22!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!23!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!24!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!25!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!EN_AMP!J5!26!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!27!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!28!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!29!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!3!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!30!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!31!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!32!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!33!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!34!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!35!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!36!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!37!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!38!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!39!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!4!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!40!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!41!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!42!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!43!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!44!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!45!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!46!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!0!J5!47!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!0!J5!48!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!49!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!5!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!0!J5!50!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!0!J5!51!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!TX+_R!J5!52!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!3.3V_M!J5!53!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!TX-_R!J5!54!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!PH1_C_R!J5!55!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!CT1T_R!J5!56!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!PH2_C_R!J5!57!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!CT1R_R!J5!58!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!0!J5!59!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!!J5!6!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!RX+_R!J5!60!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!5V!J5!61!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!RX-_R!J5!62!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!5V!J5!63!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!0!J5!64!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!PWM_O!J5!7!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!EN_PWM!J5!8!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!PWM_NO!J5!9!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F5!!!!!
+S!12V!U1!1!@power.schematic1(sch_1):ins2119359@emmiter.\ske10b-05.normal\(chips)!SKE10B-05_SKE10_SKE10B-05!!!F3!!!!!
+S!5V!U1!3!@power.schematic1(sch_1):ins2119359@emmiter.\ske10b-05.normal\(chips)!SKE10B-05_SKE10_SKE10B-05!!!F3!!!!!
+S!0!U1!2!@power.schematic1(sch_1):ins2119359@emmiter.\ske10b-05.normal\(chips)!SKE10B-05_SKE10_SKE10B-05!!!F3!!!!!
+S!0!U1!5!@power.schematic1(sch_1):ins2119359@emmiter.\ske10b-05.normal\(chips)!SKE10B-05_SKE10_SKE10B-05!!!F3!!!!!
+S!!U1!4!@power.schematic1(sch_1):ins2119359@emmiter.\ske10b-05.normal\(chips)!SKE10B-05_SKE10_SKE10B-05!!!F3!!!!!
+S!PWR_4-5!U2!1!@power.schematic1(sch_1):ins2117820@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!!!F2!!!!!
+S!PWR_7-8!U2!2!@power.schematic1(sch_1):ins2117820@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!!!F2!!!!!
+S!0!U2!4!@power.schematic1(sch_1):ins2117820@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!!!F2!!!!!
+S!48V!U2!3!@power.schematic1(sch_1):ins2117820@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!!!F2!!!!!
+S!PWR_1-2!U4!1!@power.schematic1(sch_1):ins2117862@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!!!F1!!!!!
+S!PWR_3-6!U4!2!@power.schematic1(sch_1):ins2117862@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!!!F1!!!!!
+S!0!U4!4!@power.schematic1(sch_1):ins2117862@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!!!F1!!!!!
+S!48V!U4!3!@power.schematic1(sch_1):ins2117862@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!!!F1!!!!!
+S!-12V!U3!8!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!0!U3!10!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!!U3!7!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!!U3!2!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!!U3!5!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!48V!U3!3!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!0!U3!1!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!48V!U3!4!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!0!U3!6!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!0!U3!9!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!
+S!12V!U3!11!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!!!F0!!!!!

@@ -1,0 +1,16 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!
+J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Thu Oct 10 18:10:53 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!28.800000 mil!4!OUT OF DATE!
+S!@power.schematic1(sch_1):ins2128807@power.\4 header_1.normal\(chips)!4 HEADER_1_PLUG-4_4 HEADER!J3!.\pstchip.dat!!!!!!F7!!!!
+S!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_0.normal\(chips)!CONN PCB 12X2_0_IDC-24MR_IDC-24!J6!.\pstchip.dat!!!!!!F4!!!!
+S!@power.schematic1(sch_1):ins2120138@discrete.\cap np.normal\(chips)!CAP NP_C0603_2.2U!C1!.\pstchip.dat!!!!!!F13!!2!!
+S!@power.schematic1(sch_1):ins2118402@discrete.\cap.normal\(chips)!CAP_ECAP8_470U!C2!.\pstchip.dat!!!!!!F12!!1!!
+S!@power.schematic1(sch_1):ins2119127@discrete.\cap.normal\(chips)!CAP_ECAP8_470U!C4!.\pstchip.dat!!!!!!F11!!1!!
+S!@power.schematic1(sch_1):ins2119304@discrete.\cap np.normal\(chips)!CAP NP_C0603_0.1U!C3!.\pstchip.dat!!!!!!F10!!1!!
+S!@power.schematic1(sch_1):ins2134742@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!J1!.\pstchip.dat!!!!!!F9!!!!
+S!@power.schematic1(sch_1):ins2135042@power.\7499411121_1.normal\(chips)!7499411121_1_7499411121_7499411!J2!.\pstchip.dat!!!!!!F8!!!!
+S!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!J4!.\pstchip.dat!!!!!!F6!!!!
+S!@power.schematic1(sch_1):ins2108467@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!J5!.\pstchip.dat!!!!!!F5!!!!
+S!@power.schematic1(sch_1):ins2119359@emmiter.\ske10b-05.normal\(chips)!SKE10B-05_SKE10_SKE10B-05!U1!.\pstchip.dat!!!!!!F3!!2!!
+S!@power.schematic1(sch_1):ins2117820@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!U2!.\pstchip.dat!!!!!!F2!!!!
+S!@power.schematic1(sch_1):ins2117862@discrete.\df01m.normal\(chips)!DF01M_DFM4_DF01M!U4!.\pstchip.dat!!!!!!F1!!!!
+S!@power.schematic1(sch_1):ins2117639@power.\ag5100_0.normal\(chips)!AG5100_0_AG5100_AG5100!U3!.\pstchip.dat!!!!!!F0!!1!!
