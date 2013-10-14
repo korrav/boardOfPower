@@ -1,7 +1,9 @@
 A!REFDES!COMP_REUSE_ID!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_SYMBOL_EDITED!COMP_PARENT_PPT_PART!COMP_EMBEDDED_PLACEMENT!
-J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Thu Oct 10 18:10:53 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!28.800000 mil!4!OUT OF DATE!
-S!J3!!!!!!!!
+J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Sun Oct 13 16:57:59 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!40.472441 mil!4!OUT OF DATE!
 S!J6!!!!!!!!
+S!U2!!!!!!!!
+S!U4!!!!!!!!
+S!J3!!!!!!!!
 S!C1!!!!!!!!
 S!C2!!!!!!!!
 S!C4!!!!!!!!
@@ -11,6 +13,4 @@ S!J2!!!!!!!!
 S!J4!!!!!!!!
 S!J5!!!!!!!!
 S!U1!!!!!!!!
-S!U2!!!!!!!!
-S!U4!!!!!!!!
 S!U3!!!!!!!!

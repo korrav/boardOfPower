@@ -1,5 +1,5 @@
 A!NET_NAME!NET_LOGICAL_PATH!NET_VOLTAGE!
-J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Thu Oct 10 18:10:53 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!28.800000 mil!4!OUT OF DATE!
+J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Sun Oct 13 16:57:59 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!40.472441 mil!4!OUT OF DATE!
 S!3.3V_M!@power.schematic1(sch_1):\3.3v_m\!!
 S!SH_HYD!@power.schematic1(sch_1):sh_hyd!!
 S!D1OUT!@power.schematic1(sch_1):d1out!!
