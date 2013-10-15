@@ -1,27 +1,27 @@
 A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_CDS_PINID!PIN_TERMINATION!PIN_TERM_IDENT!PIN_NET_SHORT!
-J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Sun Oct 13 16:57:59 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!40.472441 mil!4!OUT OF DATE!
-S!D1OUT!J6!2!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Mon Oct 14 19:55:28 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!40.472441 mil!4!OUT OF DATE!
+S!ADC_IN!J6!2!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!EN_PWM!J6!20!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!GPIO1!J6!22!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!PWM_O!J6!24!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!!J6!1!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!48V!J6!3!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!-12V!J6!5!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!5V!J6!7!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!48V!J6!1!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!D1OUT!J6!3!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!5!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!7!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!0!J6!9!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!0!J6!11!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!0!J6!13!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!ADC_IN!J6!4!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!5V!J6!13!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!!J6!4!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!0!J6!15!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!SH_HYD!J6!17!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!GPIO3!J6!19!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!GPIO2!J6!21!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!PWM_NO!J6!23!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!12V!J6!6!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!5V!J6!8!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!0!J6!10!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!-12V!J6!6!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!0!J6!8!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!12V!J6!10!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!0!J6!12!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
-S!0!J6!14!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
+S!5V!J6!14!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!EN_AMP!J6!16!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!GPIO4!J6!18!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!!!F4!!!!!
 S!PWR_4-5!U2!1!@power.schematic1(sch_1):ins2117820@power.\df01m_0.normal\(chips)!DF01M_0_DFM4_DF01M!!!F2!!!!!
@@ -136,14 +136,14 @@ S!0!J4!53!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal
 S!CT1R_L!J4!54!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!!J4!55!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!RX+_L!J4!56!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
-S!ADC_IN!J4!57!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!12V!J4!57!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!RX-_L!J4!58!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!0!J4!59!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!5V!J4!6!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!0!J4!60!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!0!J4!61!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!0!J4!62!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
-S!12V!J4!63!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
+S!ADC_IN!J4!63!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!-12V!J4!64!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!!J4!7!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!
 S!!J4!8!@power.schematic1(sch_1):ins2108319@connector.\conn socket 32x2.normal\(chips)!CONN SOCKET 32X2_M20-6103245_CO!!!F6!!!!!

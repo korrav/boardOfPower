@@ -1,5 +1,5 @@
 A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!
-J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Sun Oct 13 16:57:59 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!40.472441 mil!4!OUT OF DATE!
+J!C:/MyWorks/emmiter_new/hard/circuit/project/power/board/power.brd!Mon Oct 14 19:55:28 2013!0.0000!0.0000!300.0000!180.0000!0.0001!millimeters!POWER!40.472441 mil!4!OUT OF DATE!
 S!@power.schematic1(sch_1):ins2122104@power.\conn pcb 12x2_1.normal\(chips)!CONN PCB 12X2_1_IDC-24MR_IDC-24!J6!.\pstchip.dat!!!!!!F4!!!!
 S!@power.schematic1(sch_1):ins2117820@power.\df01m_0.normal\(chips)!DF01M_0_DFM4_DF01M!U2!.\pstchip.dat!!!!!!F2!!!!
 S!@power.schematic1(sch_1):ins2117862@power.\df01m_0.normal\(chips)!DF01M_0_DFM4_DF01M!U4!.\pstchip.dat!!!!!!F1!!!!
